@@ -1,13 +1,8 @@
-# Tristan Fauvel
  
+## What I'm working on
+
 
 I build machine learning systems, and take them from research to production.
-
- 
-
----
-
-## What I'm working on
 
 My main interests are in ML applications to health and life sciences, working on new methods in optimization, Bayesian experimental design and causal inference on clinical data. 
  
